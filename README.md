@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **PHP, Laravel, Vue.js/React developer**
 
-- 📫 How to reach me **gray.jsp3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
